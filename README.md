@@ -1,1 +1,5 @@
-# pandas_exercises
+# Pandas Exercises
+
+**Jupyter Notebooks**
+
+Have a peek around.
